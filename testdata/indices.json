@@ -1,0 +1,74 @@
+[
+  {
+    "health": "green",
+    "status": "open",
+    "index": ".monitoring-kibana-6-2018.05.24",
+    "uuid": "cmZ5dfKCSrO28GtIXX4VUw",
+    "pri": "1",
+    "rep": "1",
+    "docs.count": "8638",
+    "docs.deleted": "0",
+    "store.size": "4mb",
+    "pri.store.size": "2mb"
+  },
+  {
+    "health": "green",
+    "status": "open",
+    "index": ".kibana",
+    "uuid": "a7S38K1rSZGYXhk_TL3KZA",
+    "pri": "1",
+    "rep": "1",
+    "docs.count": "2",
+    "docs.deleted": "0",
+    "store.size": "17kb",
+    "pri.store.size": "10.1kb"
+  },
+  {
+    "health": "green",
+    "status": "open",
+    "index": ".monitoring-kibana-6-2018.05.23",
+    "uuid": "7xy90y9iShuaHscMahP2iQ",
+    "pri": "1",
+    "rep": "1",
+    "docs.count": "8638",
+    "docs.deleted": "0",
+    "store.size": "4mb",
+    "pri.store.size": "2mb"
+  },
+  {
+    "health": "green",
+    "status": "open",
+    "index": "resources",
+    "uuid": "aZ_O5G9wTpO5UgmqliDluw",
+    "pri": "5",
+    "rep": "1",
+    "docs.count": "3",
+    "docs.deleted": "0",
+    "store.size": "16.7kb",
+    "pri.store.size": "8.3kb"
+  },
+  {
+    "health": "green",
+    "status": "open",
+    "index": ".monitoring-kibana-6-2018.05.25",
+    "uuid": "M_qcmkmvSLKEK5e3z6sRmA",
+    "pri": "1",
+    "rep": "1",
+    "docs.count": "8374",
+    "docs.deleted": "0",
+    "store.size": "5.8mb",
+    "pri.store.size": "3.8mb"
+  },
+  {
+    "health": "green",
+    "status": "open",
+    "index": "articles",
+    "uuid": "PrAOeVMNRcavkELz1TypWA",
+    "pri": "5",
+    "rep": "1",
+    "docs.count": "3",
+    "docs.deleted": "0",
+    "store.size": "30.3kb",
+    "pri.store.size": "15.1kb"
+  }
+]
